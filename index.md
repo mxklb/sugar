@@ -1,8 +1,8 @@
-# :: Distanzuntericht von Xam Blak ::
+# Distanzuntericht von Xam Blak
 
-Eine Homage an die Darmstädter Party/Club/Konzert Szene [Juni 2021]
+Eine Homage an die Darmstädter Party/Club/Konzert Szene
 
-`Nach Kontakte meiden kommt - Kontakte pflegen!`
+Im Juni 2021 im lonley [Zucker](http://zuckersachen.de)
 
 ### --> == Timetable == <--
 ```js
@@ -12,10 +12,12 @@ Eine Homage an die Darmstädter Party/Club/Konzert Szene [Juni 2021]
  - 04:00 --> Clear Out -
   - 05:00 -> Finished -
 ```
-`Support, Fragen, Anregungen:` [zucker@xamblak.de](mailto:zucker@xamblak.de)
+`Support & Fragen an` [zucker@xamblak.de](mailto:zucker@xamblak.de)
 
 ### --> == Audio Trigger == <--
 Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg
 
 ### --> == Special Thanks == <--
-++ Etteirneh, Nafets, Mixam, Rednael, Arual & Isalg ++
+++ Josko,Henriette,Maxim,Stefan,Leander,Zucker&Glasi ++
+
+`Nach Kontakte meiden kommt - Kontakte pflegen!`
