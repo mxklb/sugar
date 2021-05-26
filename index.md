@@ -1,6 +1,6 @@
 # :: Distanzuntericht von Xam Blak ::
 
-Eine Homage an die Darmstädter Party/Club/Konzert Szene
+Eine Homage an die Darmstädter Party/Club/Konzert Szene [Juni 2021]
 
 `Nach Kontakte meiden kommt - Kontakte pflegen!`
 
