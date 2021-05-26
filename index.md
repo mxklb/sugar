@@ -14,7 +14,7 @@ Im Juni 2021 im leeren [Zucker](http://zuckersachen.de)
  - 04:00 --> Clear Out -
   - 05:00 -> Finished -
 ```
-`FAQ Mail:` [zucker@xamblak.de](mailto:zucker@xamblak.de)
+`FAQ Mail:` [zucker@xamblak.de](mailto:zucker[@]xamblak.de)
 
 ### --> == Audio Trigger == <--
 Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg
