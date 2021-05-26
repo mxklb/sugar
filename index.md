@@ -20,6 +20,6 @@ Im Juni 2021 im leeren [Zucker](http://zuckersachen.de)
 Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg
 
 ### --> == Special Thanks == <--
-++ Josko,Henriette,Maxim,Stefan,Leander,Zucker&Glasi ++
+++ Josko, Henriette, Maxim, Stefan, Leander, Zucker & Glasi ++
 
 `Nach Kontakte meiden kommt - Kontakte pflegen!`
