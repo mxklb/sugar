@@ -6,11 +6,11 @@ Eine Homage an die Darmstädter Party/Club/Konzert Szene [Juni 2021]
 
 ### --> == Timetable == <--
 ```js
-   - 21:00 -> Get In -
-  - 22:00 --> Starters -
- - 01:00 ---> Main Acts -
-  - 04:00 --> Clear Out -
-   - 05:00 -> Finished -
+  - 21:00 -> Get In -
+ - 22:00 --> Starters -
+- 01:00 ---> Main Acts -
+ - 04:00 --> Clear Out -
+  - 05:00 -> Finished -
 ```
 `Support, Fragen, Anregungen:` [zucker@xamblak.de](mailto:zucker@xamblak.de)
 
