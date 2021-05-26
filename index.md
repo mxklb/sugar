@@ -1,4 +1,4 @@
-# Distanzuntericht von Xam Blak
+# Distanzuntericht
 
 `Eine "Audio" visuelle Schaufenster-Lichtinstallation`
 
