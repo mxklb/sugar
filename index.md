@@ -4,8 +4,10 @@
 
 Eine Homage an die Darmstädter Party/Club/Konzert Szene
 
-Im Juni 2021 im leeren [Zucker](http://zuckersachen.de) von Xam Blak
+Im Juni 2021 im leeren [Zucker](http://zuckersachen.de) 
 
+[<img src="https://i.creativecommons.org/p/zero/1.0/88x15.png" alt="CC - Public Domain"/>](https://creativecommons.org/publicdomain/zero/1.0/) Xam Blak
+  
 ### --> == Timetable == <--
 ```js
   - 21:00 -> Get In -
