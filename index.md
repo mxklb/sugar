@@ -21,7 +21,7 @@ Silent Audio startet um 22:00 Uhr - Alle 15 Minuten passiert was ;)
 `FAQ Mail:` [zucker@xamblak.de](mailto:zucker[@]xamblak.de)
 
 ### --> == Audio Trigger == <--
-Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg, Xam
+Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg & Xam
 
 ### --> == Special Thanks == <--
 ++ Josko, Henriette, Maxim, Stefan, Leander, Zucker & Glasi ++
