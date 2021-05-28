@@ -18,7 +18,7 @@ Im Juni 2021 im leeren [Zucker](http://zuckersachen.de)
 ```
 Silent Audio startet um 22:00 Uhr - Alle 15 Minuten passiert was ;)
 
-`FAQ Mail:` [sugar@xamblak.de](mailto:sugar[@]xamblak.de)
+`FAQ:` [sugar@xamblak.de](mailto:sugar[@]xamblak.de)
 
 ### --> == Audio Trigger == <--
 Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg & Xam
