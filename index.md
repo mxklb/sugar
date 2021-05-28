@@ -8,7 +8,7 @@ Eine Homage an die Darmstädter Party/Club/Konzert Szene
   
 ### --> == Timetable == <--
 
-Im Juni 2021 im leeren [Zucker](http://zuckersachen.de)
+Juni 2021 im leeren [Zucker](http://zuckersachen.de)
 
 ```js
   - 21:00 -> Get In -
