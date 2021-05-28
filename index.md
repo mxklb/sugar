@@ -25,6 +25,6 @@ Silent "Audio" startet um 22:00 Uhr - Alle 15 Minuten passiert was ;)
 Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg & Xam
 
 ### --> == Special Thanks == <--
-++ Josko, Henriette, Maxim, Stephan, Leander, Zucker & Glasi ++
+++ Josko, Henriette, Stephan, Maxim, Leander, Zucker & Glasi ++
 
 `Nach Kontakte meiden kommt - Kontakte pflegen!`
