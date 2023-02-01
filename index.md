@@ -10,7 +10,7 @@ Eine Hommage an die Darmstädter Party/Club/Konzert Szene
   
 ### --> == Timetable == <--
 
-Juni 2021 im leeren [Zucker](http://zuckersachen.de)
+Gesamter Juni 2021 im leeren [Zucker](http://zuckersachen.de)
 
 ```js
   - 21:00 -> Get In -
@@ -19,7 +19,7 @@ Juni 2021 im leeren [Zucker](http://zuckersachen.de)
  - 04:00 --> Clear Out -
   - 05:00 -> Finished -
 ```
-Silent "Audio" startet um 22:00 Uhr - Alle 15 Minuten passiert was ;)
+Silent "Audio" startet immer um 22:00 Uhr - Alle 15 Minuten passiert was ;)
 
 `FAQ:` [sugar@xamblak.de](mailto:sugar[@]xamblak.de)
 
