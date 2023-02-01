@@ -28,3 +28,5 @@ Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg & Xam
 ++ Josko, Henriette, Stephan, Maxim, Leander, Zucker & Glasi ++
 
 `Nach Kontakte meiden kommt - Kontakte pflegen!`
+
+![](assets/zeitraffer.mp4)
