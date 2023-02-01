@@ -29,4 +29,6 @@ Loft House Sessions 2021.5 feat. Oksoj, Sennah, Ikkolg & Xam
 
 `Nach Kontakte meiden kommt - Kontakte pflegen!`
 
-![](assets/zeitraffer.mp4)
+<video muted autoplay controls>
+    <source src="{{ site.assets }}/zeitraffer.mp4" type="video/mp4">
+</video>
