@@ -2,7 +2,7 @@
 
 `Eine "Audio" visuelle Schaufenster-Lichtinstallation`
 
-<iframe max-width="440" height="40vh" src="https://www.youtube.com/embed/JbVYMYb_2Nc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe max-width="440px" height="40vh" src="https://www.youtube.com/embed/JbVYMYb_2Nc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 Eine Hommage an die Darmstädter Party/Club/Konzert Szene
 
